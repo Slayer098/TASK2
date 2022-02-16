@@ -1,0 +1,862 @@
+PMID- 30813289
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190612
+LR  - 20200225
+IS  - 1420-3049 (Electronic)
+IS  - 1420-3049 (Linking)
+VI  - 24
+IP  - 4
+DP  - 2019 Feb 22
+TI  - Tropane Alkaloids: Chemistry, Pharmacology, Biosynthesis and Production.
+LID - 10.3390/molecules24040796 [doi]
+LID - 796
+AB  - Tropane alkaloids (TA) are valuable secondary plant metabolites which are mostly 
+      found in high concentrations in the Solanaceae and Erythroxylaceae families. The 
+      TAs, which are characterized by their unique bicyclic tropane ring system, can be 
+      divided into three major groups: hyoscyamine and scopolamine, cocaine and 
+      calystegines. Although all TAs have the same basic structure, they differ immensely 
+      in their biological, chemical and pharmacological properties. Scopolamine, also 
+      known as hyoscine, has the largest legitimate market as a pharmacological agent due 
+      to its treatment of nausea, vomiting, motion sickness, as well as smooth muscle 
+      spasms while cocaine is the 2nd most frequently consumed illicit drug globally. This 
+      review provides a comprehensive overview of TAs, highlighting their structural 
+      diversity, use in pharmaceutical therapy from both historical and modern 
+      perspectives, natural biosynthesis in planta and emerging production possibilities 
+      using tissue culture and microbial biosynthesis of these compounds.
+FAU - Kohnen-Johannsen, Kathrin Laura
+AU  - Kohnen-Johannsen KL
+AD  - Technical Biochemistry, Department of Biochemical and Chemical Engineering, 
+      Technical University Dortmund, D-44227 Dortmund, Germany. 
+      Laura.Kohnen@tu-dortmund.de.
+FAU - Kayser, Oliver
+AU  - Kayser O
+AUID- ORCID: 0000-0001-6131-2495
+AD  - Technical Biochemistry, Department of Biochemical and Chemical Engineering, 
+      Technical University Dortmund, D-44227 Dortmund, Germany. 
+      Oliver.Kayser@tu-dortmund.de.
+LA  - eng
+GR  - 613513/European Union/
+PT  - Journal Article
+PT  - Review
+DEP - 20190222
+TA  - Molecules
+JT  - Molecules (Basel, Switzerland)
+JID - 100964009
+RN  - 0 (Alkaloids)
+RN  - 0 (Plant Extracts)
+RN  - 0 (Tropanes)
+SB  - IM
+MH  - Alkaloids/*biosynthesis/chemistry/*pharmacology
+MH  - Erythroxylaceae/*chemistry
+MH  - Gene Expression Regulation, Plant/drug effects
+MH  - Humans
+MH  - Molecular Structure
+MH  - Plant Extracts/biosynthesis/pharmacology
+MH  - Secondary Metabolism
+MH  - Solanaceae/*chemistry
+MH  - Tropanes/chemical synthesis/chemistry/pharmacology
+PMC - PMC6412926
+OTO - NOTNLM
+OT  - biosynthesis
+OT  - biotechnological production
+OT  - calystegine
+OT  - chemistry
+OT  - cocaine
+OT  - pharmacology
+OT  - scopolamine
+OT  - tropane alkaloids
+COIS- This work was supported by Boehringer Ingelheim Pharma GmbH & Co. KG.
+EDAT- 2019/03/01 06:00
+MHDA- 2019/06/14 06:00
+CRDT- 2019/03/01 06:00
+PHST- 2019/01/15 00:00 [received]
+PHST- 2019/02/15 00:00 [revised]
+PHST- 2019/02/18 00:00 [accepted]
+PHST- 2019/03/01 06:00 [entrez]
+PHST- 2019/03/01 06:00 [pubmed]
+PHST- 2019/06/14 06:00 [medline]
+AID - molecules24040796 [pii]
+AID - molecules-24-00796 [pii]
+AID - 10.3390/molecules24040796 [doi]
+PST - epublish
+SO  - Molecules. 2019 Feb 22;24(4):796. doi: 10.3390/molecules24040796.
+
+PMID- 29981111
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190318
+LR  - 20190318
+IS  - 1940-6029 (Electronic)
+IS  - 1064-3745 (Linking)
+VI  - 1815
+DP  - 2018
+TI  - An Introduction to Plant Tissue Culture: Advances and Perspectives.
+PG  - 3-13
+LID - 10.1007/978-1-4939-8594-4_1 [doi]
+AB  - Plant tissue culture techniques are the most frequently used biotechnological tools 
+      for basic and applied purposes ranging from investigation on plant developmental 
+      processes, functional gene studies, commercial plant micropropagation, generation of 
+      transgenic plants with specific industrial and agronomical traits, plant breeding 
+      and crop improvement, virus elimination from infected materials to render 
+      high-quality healthy plant material, preservation and conservation of germplasm of 
+      vegetative propagated plant crops, and rescue of threatened or endangered plant 
+      species. Additionally, plant cell and organ cultures are of interest for the 
+      production of secondary metabolites of industrial and pharmaceutical interest. New 
+      technologies, such as the genome editing ones combined with tissue culture and 
+      Agrobacterium tumefaciens infection, are currently promising alternatives for the 
+      highly specific genetic manipulation of interesting agronomical or industrial traits 
+      in crop plants. Application of omics (genomics, transcriptomics, and proteomics) to 
+      plant tissue culture will certainly help to unravel complex developmental processes 
+      such as organogenesis and somatic embryogenesis, which will probably enable to 
+      improve the efficiency of regeneration protocols for recalcitrant species. 
+      Additionally, metabolomics applied to tissue culture will facilitate the extraction 
+      and characterization of complex mixtures of natural plant products of industrial 
+      interest. General and specific aspects and applications of plant tissue culture and 
+      the advances and perspectives are described in this edition.
+FAU - Loyola-Vargas, Victor M
+AU  - Loyola-Vargas VM
+AD  - Unidad de Bioquímica y Biología Molecular de Plantas, Centro de Investigación 
+      Científica de Yucatán, Mérida, Yucatán, Mexico.
+FAU - Ochoa-Alejo, Neftalí
+AU  - Ochoa-Alejo N
+AD  - Departamento de Ingeniería Genética, Unidad Irapuato, Centro de Investigación y de 
+      Estudios Avanzados del Instituto Politécnico Nacional, Irapuato, Guanajuato, Mexico. 
+      neftali.ochoa@cinvestav.mx.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Methods Mol Biol
+JT  - Methods in molecular biology (Clifton, N.J.)
+JID - 9214969
+SB  - IM
+MH  - Epigenesis, Genetic
+MH  - Genetic Engineering
+MH  - Plant Breeding
+MH  - Plants/genetics/*metabolism
+MH  - Plants, Genetically Modified
+MH  - Tissue Culture Techniques/*methods
+OTO - NOTNLM
+OT  - *Aseptic culture
+OT  - *Genetic modified organisms
+OT  - *Large-scale propagation
+OT  - *Metabolic engineering
+OT  - *Plant cell culture
+OT  - *Proteomics
+OT  - *Transcriptomics
+EDAT- 2018/07/08 06:00
+MHDA- 2019/03/19 06:00
+CRDT- 2018/07/08 06:00
+PHST- 2018/07/08 06:00 [entrez]
+PHST- 2018/07/08 06:00 [pubmed]
+PHST- 2019/03/19 06:00 [medline]
+AID - 10.1007/978-1-4939-8594-4_1 [doi]
+PST - ppublish
+SO  - Methods Mol Biol. 2018;1815:3-13. doi: 10.1007/978-1-4939-8594-4_1.
+
+PMID- 30715560
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190409
+LR  - 20200225
+IS  - 1432-2048 (Electronic)
+IS  - 0032-0935 (Linking)
+VI  - 249
+IP  - 4
+DP  - 2019 Apr
+TI  - Application of genetics and biotechnology for improving medicinal plants.
+PG  - 953-973
+LID - 10.1007/s00425-019-03099-1 [doi]
+AB  - Plant tissue culture has been used for conservation, micropropagation, and in planta 
+      overproduction of some pharma molecules of medicinal plants. New biotechnology-based 
+      breeding methods such as targeted genome editing methods are able to create 
+      custom-designed medicinal plants with different secondary metabolite profiles. For a 
+      long time, humans have used medicinal plants for therapeutic purposes and in food 
+      and other industries. Classical biotechnology techniques have been exploited in 
+      breeding medicinal plants. Now, it is time to apply faster biotechnology-based 
+      breeding methods (BBBMs) to these valuable plants. Assessment of the genetic 
+      diversity, conservation, proliferation, and overproduction are the main ways by 
+      which genetics and biotechnology can help to improve medicinal plants faster. Plant 
+      tissue culture (PTC) plays an important role as a platform to apply other BBBMs in 
+      medicinal plants. Agrobacterium-mediated gene transformation and artificial 
+      polyploidy induction are the main BBBMs that are directly dependent on PTC. 
+      Manageable regulation of endogens and/or transferred genes via engineered 
+      zinc-finger proteins or transcription activator-like effectors can help targeted 
+      manipulation of secondary metabolite pathways in medicinal plants. The 
+      next-generation sequencing techniques have great potential to study the genetic 
+      diversity of medicinal plants through restriction-site-associated DNA sequencing 
+      (RAD-seq) technique and also to identify the genes and enzymes that are involved in 
+      the biosynthetic pathway of secondary metabolites through precise transcriptome 
+      profiling (RNA-seq). The sequence-specific nucleases of transcription activator-like 
+      effector nucleases (TALENs), zinc-finger nucleases, and clustered regularly 
+      interspaced short palindromic repeats-associated (Cas) are the genome editing 
+      methods that can produce user-designed medicinal plants. These current targeted 
+      genome editing methods are able to manage plant synthetic biology and open new gates 
+      to medicinal plants to be introduced into appropriate industries.
+FAU - Niazian, Mohsen
+AU  - Niazian M
+AUID- ORCID: 0000-0002-7032-4938
+AD  - Department of Tissue and Cell Culture, Agricultural Biotechnology Research Institute 
+      of Iran (ABRII), Agricultural Research, Education and Extension Organization 
+      (AREEO), Karaj, 3135933151, Iran. m.niazian@abrii.ac.ir.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20190204
+PL  - Germany
+TA  - Planta
+JT  - Planta
+JID - 1250576
+SB  - IM
+MH  - Bioreactors
+MH  - *Biotechnology/methods
+MH  - *Gene Editing/methods
+MH  - Genetic Engineering/methods
+MH  - Plant Breeding/methods
+MH  - Plants, Genetically Modified/genetics/metabolism
+MH  - Plants, Medicinal/*genetics/metabolism
+MH  - Ploidies
+MH  - Tissue Culture Techniques
+OTO - NOTNLM
+OT  - Bio-product
+OT  - Biotechnology
+OT  - Genome editing
+OT  - Metabolic engineering
+OT  - Plant synthetic biology
+OT  - Tissue culture
+EDAT- 2019/02/05 06:00
+MHDA- 2019/04/10 06:00
+CRDT- 2019/02/05 06:00
+PHST- 2018/10/03 00:00 [received]
+PHST- 2019/01/25 00:00 [accepted]
+PHST- 2019/02/05 06:00 [pubmed]
+PHST- 2019/04/10 06:00 [medline]
+PHST- 2019/02/05 06:00 [entrez]
+AID - 10.1007/s00425-019-03099-1 [pii]
+AID - 10.1007/s00425-019-03099-1 [doi]
+PST - ppublish
+SO  - Planta. 2019 Apr;249(4):953-973. doi: 10.1007/s00425-019-03099-1. Epub 2019 Feb 4.
+
+PMID- 29925808
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20191120
+IS  - 2073-4425 (Print)
+IS  - 2073-4425 (Electronic)
+IS  - 2073-4425 (Linking)
+VI  - 9
+IP  - 6
+DP  - 2018 Jun 20
+TI  - Production of Plant Secondary Metabolites: Examples, Tips and Suggestions for 
+      Biotechnologists.
+LID - 10.3390/genes9060309 [doi]
+LID - 309
+AB  - Plants are sessile organisms and, in order to defend themselves against exogenous 
+      (a)biotic constraints, they synthesize an array of secondary metabolites which have 
+      important physiological and ecological effects. Plant secondary metabolites can be 
+      classified into four major classes: terpenoids, phenolic compounds, alkaloids and 
+      sulphur-containing compounds. These phytochemicals can be antimicrobial, act as 
+      attractants/repellents, or as deterrents against herbivores. The synthesis of such a 
+      rich variety of phytochemicals is also observed in undifferentiated plant cells 
+      under laboratory conditions and can be further induced with elicitors or by feeding 
+      precursors. In this review, we discuss the recent literature on the production of 
+      representatives of three plant secondary metabolite classes: artemisinin (a 
+      sesquiterpene), lignans (phenolic compounds) and caffeine (an alkaloid). Their 
+      respective production in well-known plants, i.e., Artemisia, Coffea arabica L., as 
+      well as neglected species, like the fibre-producing plant Urtica dioica L., will be 
+      surveyed. The production of artemisinin and caffeine in heterologous hosts will also 
+      be discussed. Additionally, metabolic engineering strategies to increase the 
+      bioactivity and stability of plant secondary metabolites will be surveyed, by 
+      focusing on glycosyltransferases (GTs). We end our review by proposing strategies to 
+      enhance the production of plant secondary metabolites in cell cultures by inducing 
+      cell wall modifications with chemicals/drugs, or with altered concentrations of the 
+      micronutrient boron and the quasi-essential element silicon.
+FAU - Guerriero, Gea
+AU  - Guerriero G
+AUID- ORCID: 0000-0001-6586-6997
+AD  - Research and Innovation Department, Luxembourg Institute of Science and Technology, 
+      5 avenue des Hauts-Fourneaux, L-4362 Esch/Alzette, Luxembourg. 
+      gea.guerriero@list.lu.
+FAU - Berni, Roberto
+AU  - Berni R
+AD  - Department of Life Sciences, University of Siena, via P.A. Mattioli 4, 53100 Siena, 
+      Italy. berni10@student.unisi.it.
+AD  - Trees and timber institute-National research council of Italy (CNR-IVALSA), via 
+      Aurelia 49, 58022 Follonica (GR), Italy. berni10@student.unisi.it.
+FAU - Muñoz-Sanchez, J Armando
+AU  - Muñoz-Sanchez JA
+AD  - Unidad de Bioquímica y Biología Molecular de Plantas, Centro de Investigación 
+      Científica de Yucatán, Calle 43 # 130 X 32 y 34, Col. Chuburná de Hidalgo, Mérida, 
+      Yucatán 97205, Mexico. arms@cicy.mx.
+FAU - Apone, Fabio
+AU  - Apone F
+AD  - Arterra Biosciences srl/Vitalab srl, via B. Brin 69, 80142 Naples, Italy. 
+      fapone@arterrabio.it.
+FAU - Abdel-Salam, Eslam M
+AU  - Abdel-Salam EM
+AUID- ORCID: 0000-0003-3297-9551
+AD  - Department of Botany & Microbiology, College of Science, King Saud University, P.O. 
+      Box 2455, Riyadh 11451, Saudi Arabia. eabdelsalam@ksu.edu.sa.
+FAU - Qahtan, Ahmad A
+AU  - Qahtan AA
+AD  - Department of Botany & Microbiology, College of Science, King Saud University, P.O. 
+      Box 2455, Riyadh 11451, Saudi Arabia. ahmadaqq@gmail.com.
+FAU - Alatar, Abdulrahman A
+AU  - Alatar AA
+AD  - Department of Botany & Microbiology, College of Science, King Saud University, P.O. 
+      Box 2455, Riyadh 11451, Saudi Arabia. aalatar@ksu.edu.sa.
+FAU - Cantini, Claudio
+AU  - Cantini C
+AD  - Trees and timber institute-National research council of Italy (CNR-IVALSA), via 
+      Aurelia 49, 58022 Follonica (GR), Italy. cantini@ivalsa.cnr.it.
+FAU - Cai, Giampiero
+AU  - Cai G
+AD  - Department of Life Sciences, University of Siena, via P.A. Mattioli 4, 53100 Siena, 
+      Italy. giampiero.cai@unisi.it.
+FAU - Hausman, Jean-Francois
+AU  - Hausman JF
+AUID- ORCID: 0000-0001-6103-7817
+AD  - Research and Innovation Department, Luxembourg Institute of Science and Technology, 
+      5 avenue des Hauts-Fourneaux, L-4362 Esch/Alzette, Luxembourg. 
+      jean-francois.hausman@list.lu.
+FAU - Siddiqui, Khawar Sohail
+AU  - Siddiqui KS
+AD  - Life Sciences Department, King Fahd University of Petroleum and Minerals (KFUPM), 
+      31261 Dhahran, Saudi Arabia. ksiddiqui@kfupm.edu.sa.
+FAU - Hernández-Sotomayor, S M Teresa
+AU  - Hernández-Sotomayor SMT
+AD  - Unidad de Bioquímica y Biología Molecular de Plantas, Centro de Investigación 
+      Científica de Yucatán, Calle 43 # 130 X 32 y 34, Col. Chuburná de Hidalgo, Mérida, 
+      Yucatán 97205, Mexico. ths@cicy.mx.
+FAU - Faisal, Mohammad
+AU  - Faisal M
+AD  - Department of Botany & Microbiology, College of Science, King Saud University, P.O. 
+      Box 2455, Riyadh 11451, Saudi Arabia. mofaisal@ksu.edu.sa.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20180620
+TA  - Genes (Basel)
+JT  - Genes
+JID - 101551097
+PMC - PMC6027220
+OTO - NOTNLM
+OT  - Artemisia
+OT  - Coffea arabica L.
+OT  - Urtica dioica L.
+OT  - artemisinin
+OT  - bioactivity
+OT  - caffeine
+OT  - cell wall
+OT  - heterologous hosts
+OT  - lignans
+OT  - secondary metabolites
+OT  - uridine diphosphate glycosyltransferases
+COIS- The authors declare no conflict of interest. The funding sponsors had no role in the 
+      design of the study; in the collection, analyses, or interpretation of data; in the 
+      writing of the manuscript, and in the decision to publish the results.
+EDAT- 2018/06/22 06:00
+MHDA- 2018/06/22 06:01
+CRDT- 2018/06/22 06:00
+PHST- 2018/05/30 00:00 [received]
+PHST- 2018/06/12 00:00 [revised]
+PHST- 2018/06/20 00:00 [accepted]
+PHST- 2018/06/22 06:00 [entrez]
+PHST- 2018/06/22 06:00 [pubmed]
+PHST- 2018/06/22 06:01 [medline]
+AID - genes9060309 [pii]
+AID - genes-09-00309 [pii]
+AID - 10.3390/genes9060309 [doi]
+PST - epublish
+SO  - Genes (Basel). 2018 Jun 20;9(6):309. doi: 10.3390/genes9060309.
+
+PMID- 30187155
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190226
+LR  - 20200225
+IS  - 1432-2048 (Electronic)
+IS  - 0032-0935 (Linking)
+VI  - 249
+IP  - 1
+DP  - 2019 Jan
+TI  - Biosynthesis and function of terpenoid defense compounds in maize (Zea mays).
+PG  - 21-30
+LID - 10.1007/s00425-018-2999-2 [doi]
+AB  - Maize produces an array of herbivore-induced terpene volatiles that attract 
+      parasitoids to infested plants and a suite of pathogen-induced non-volatile 
+      terpenoids with antimicrobial activity to defend against pests. Plants rely on 
+      complex blends of constitutive and dynamically produced specialized metabolites to 
+      mediate beneficial ecological interactions and protect against biotic attack. One 
+      such class of metabolites are terpenoids, a large and structurally diverse class of 
+      molecules shown to play significant defensive and developmental roles in numerous 
+      plant species. Despite this, terpenoids have only recently been recognized as 
+      significant contributors to pest resistance in maize (Zea mays), a globally 
+      important agricultural crop. The current review details recent advances in our 
+      understanding of biochemical structures, pathways and functional roles of maize 
+      terpenoids. Dependent upon the lines examined, maize can harbor more than 30 terpene 
+      synthases, underlying the inherent diversity of maize terpene defense systems. Part 
+      of this defensive arsenal is the inducible production of volatile bouquets that 
+      include monoterpenes, homoterpenes and sesquiterpenes, which often function in 
+      indirect defense by enabling the attraction of parasitoids and predators. More 
+      recently discovered are a subset of sesquiterpene and diterpene hydrocarbon olefins 
+      modified by cytochrome P450s to produce non-volatile end-products such kauralexins, 
+      zealexins, dolabralexins and β-costic acid. These non-volatile terpenoid 
+      phytoalexins often provide effective defense against both microbial and insect pests 
+      via direct antimicrobial and anti-feedant activity. The diversity and promiscuity of 
+      maize terpene synthases, coupled with a variety of secondary modifications, results 
+      in elaborate defensive layers whose identities, regulation and precise functions are 
+      continuing to be elucidated.
+FAU - Block, Anna K
+AU  - Block AK
+AUID- ORCID: 0000-0003-1689-4005
+AD  - Center for Medical, Agricultural and Veterinary Entomology, U.S. Department of 
+      Agriculture-Agricultural Research Service, 1700 SW 23rd Drive, Gainesville, FL, 
+      32608, USA. anna.block@ars.usda.gov.
+FAU - Vaughan, Martha M
+AU  - Vaughan MM
+AD  - National Center for Agricultural Utilization Research, U.S. Department of 
+      Agriculture-Agricultural Research Service, 1815 N. University Street, Peoria, IL, 
+      61604, USA.
+FAU - Schmelz, Eric A
+AU  - Schmelz EA
+AD  - Section of Cell and Developmental Biology, University of California San Diego, La 
+      Jolla, CA, 92093, USA.
+FAU - Christensen, Shawn A
+AU  - Christensen SA
+AD  - Center for Medical, Agricultural and Veterinary Entomology, U.S. Department of 
+      Agriculture-Agricultural Research Service, 1700 SW 23rd Drive, Gainesville, FL, 
+      32608, USA.
+LA  - eng
+GR  - 6036-11210-001-00D/Agricultural Research Service/
+GR  - 5010-42000-048-00-D/Agricultural Research Service/
+GR  - 2018-51181-28419/National Institute of Food and Agriculture/
+PT  - Journal Article
+PT  - Review
+DEP - 20180906
+PL  - Germany
+TA  - Planta
+JT  - Planta
+JID - 1250576
+RN  - 0 (Sesquiterpenes)
+RN  - 0 (Terpenes)
+RN  - 37297-20-4 (phytoalexins)
+SB  - IM
+MH  - Animals
+MH  - Gene Expression Regulation, Plant
+MH  - Insecta/pathogenicity
+MH  - Plant Diseases/parasitology
+MH  - Sesquiterpenes/metabolism
+MH  - Terpenes/*metabolism
+MH  - Zea mays/*metabolism/*parasitology
+OTO - NOTNLM
+OT  - Corn
+OT  - Insect
+OT  - Pathogen
+OT  - Phytoalexins
+OT  - Terpenes
+OT  - Volatiles
+EDAT- 2018/09/07 06:00
+MHDA- 2019/02/27 06:00
+CRDT- 2018/09/07 06:00
+PHST- 2018/07/03 00:00 [received]
+PHST- 2018/08/30 00:00 [accepted]
+PHST- 2018/09/07 06:00 [pubmed]
+PHST- 2019/02/27 06:00 [medline]
+PHST- 2018/09/07 06:00 [entrez]
+AID - 10.1007/s00425-018-2999-2 [pii]
+AID - 10.1007/s00425-018-2999-2 [doi]
+PST - ppublish
+SO  - Planta. 2019 Jan;249(1):21-30. doi: 10.1007/s00425-018-2999-2. Epub 2018 Sep 6.
+
+PMID- 15860427
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050622
+LR  - 20061115
+IS  - 1369-5266 (Print)
+IS  - 1369-5266 (Linking)
+VI  - 8
+IP  - 3
+DP  - 2005 Jun
+TI  - Transporters of secondary metabolites.
+PG  - 301-7
+AB  - The membrane transport of plant secondary metabolites is a newly developing research 
+      area. Recent progress in genome and expressed sequence tag (EST) databases has 
+      revealed that many transporters and channels exist in plant genome. Studies of the 
+      genetic sequences that encode these proteins, and of phenotypes caused by the 
+      mutation of these sequences, have been used to characterize the membrane transport 
+      of plant secondary metabolites. Such studies have clarified that membrane transport 
+      is fairly specific and highly regulated for each secondary metabolite. Not only 
+      genes that are involved in the biosynthesis of secondary metabolites but also genes 
+      that are involved in their transport will be important for systematic metabolic 
+      engineering aimed at increasing the productivity of valuable secondary metabolites 
+      in planta.
+FAU - Yazaki, Kazufumi
+AU  - Yazaki K
+AD  - Research Institute for Sustainable Humanosphere, Kyoto University, Gokasho, Uji 
+      611-0011, Japan. yazaki@rish.kyoto-u.ac.jp
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PL  - England
+TA  - Curr Opin Plant Biol
+JT  - Current opinion in plant biology
+JID - 100883395
+RN  - 0 (Alkaloids)
+RN  - 0 (Carrier Proteins)
+RN  - 0 (Phenols)
+RN  - 0 (Plant Proteins)
+RN  - 0 (Terpenes)
+SB  - IM
+MH  - Alkaloids/metabolism
+MH  - Biological Transport
+MH  - Carrier Proteins/*physiology
+MH  - Cell Membrane/metabolism
+MH  - Phenols/metabolism
+MH  - Plant Proteins/*physiology
+MH  - Plants/*metabolism
+MH  - Terpenes/metabolism
+MH  - Vacuoles/metabolism
+RF  - 53
+EDAT- 2005/04/30 09:00
+MHDA- 2005/06/23 09:00
+CRDT- 2005/04/30 09:00
+PHST- 2005/04/30 09:00 [pubmed]
+PHST- 2005/06/23 09:00 [medline]
+PHST- 2005/04/30 09:00 [entrez]
+AID - S1369-5266(05)00043-9 [pii]
+AID - 10.1016/j.pbi.2005.03.011 [doi]
+PST - ppublish
+SO  - Curr Opin Plant Biol. 2005 Jun;8(3):301-7. doi: 10.1016/j.pbi.2005.03.011.
+
+PMID- 34069975
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210921
+LR  - 20210921
+IS  - 2218-273X (Electronic)
+IS  - 2218-273X (Linking)
+VI  - 11
+IP  - 5
+DP  - 2021 May 18
+TI  - Synthetic Biology towards Improved Flavonoid Pharmacokinetics.
+LID - 10.3390/biom11050754 [doi]
+LID - 754
+AB  - Flavonoids are a structurally diverse class of natural products that have been found 
+      to have a range of beneficial activities in humans. However, the clinical 
+      utilisation of these molecules has been limited due to their low solubility, 
+      chemical stability, bioavailability and extensive intestinal metabolism in vivo. 
+      Recently, the view has been formed that site-specific modification of flavonoids by 
+      methylation and/or glycosylation, processes that occur in plants endogenously, can 
+      be used to improve and adapt their biophysical and pharmacokinetic properties. The 
+      traditional source of flavonoids and their modified forms is from plants and is 
+      limited due to the low amounts present in biomass, intrinsic to the nature of 
+      secondary metabolite biosynthesis. Access to greater amounts of flavonoids, and 
+      understanding of the impact of modifications, requires a rethink in terms of 
+      production, more specifically towards the adoption of plant biosynthetic pathways 
+      into ex planta synthesis approaches. Advances in synthetic biology and metabolic 
+      engineering, aided by protein engineering and machine learning methods, offer 
+      attractive and exciting avenues for ex planta flavonoid synthesis. This review seeks 
+      to explore the applications of synthetic biology towards the ex planta biosynthesis 
+      of flavonoids, and how the natural plant methylation and glycosylation pathways can 
+      be harnessed to produce modified flavonoids with more favourable biophysical and 
+      pharmacokinetic properties for clinical use. It is envisaged that the development of 
+      viable alternative production systems for the synthesis of flavonoids and their 
+      methylated and glycosylated forms will help facilitate their greater clinical 
+      application.
+FAU - Sajid, Moon
+AU  - Sajid M
+AUID- ORCID: 0000-0001-6535-5783
+AD  - UWA School of Agriculture and Environment, The University of Western Australia, 
+      Perth, WA 6009, Australia.
+FAU - Channakesavula, Chaitanya N
+AU  - Channakesavula CN
+AD  - UWA School of Agriculture and Environment, The University of Western Australia, 
+      Perth, WA 6009, Australia.
+FAU - Stone, Shane R
+AU  - Stone SR
+AD  - UWA School of Agriculture and Environment, The University of Western Australia, 
+      Perth, WA 6009, Australia.
+FAU - Kaur, Parwinder
+AU  - Kaur P
+AUID- ORCID: 0000-0003-0201-0766
+AD  - UWA School of Agriculture and Environment, The University of Western Australia, 
+      Perth, WA 6009, Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20210518
+TA  - Biomolecules
+JT  - Biomolecules
+JID - 101596414
+RN  - 0 (Flavonoids)
+SB  - IM
+MH  - Drug Stability
+MH  - Flavonoids/chemistry/*pharmacokinetics
+MH  - Glycosylation
+MH  - Humans
+MH  - Machine Learning
+MH  - Methylation
+MH  - Plants/*chemistry
+MH  - Synthetic Biology/*methods
+PMC - PMC8157843
+OTO - NOTNLM
+OT  - *anticancer compounds
+OT  - *ex planta synthesis
+OT  - *flavonoids
+OT  - *pharmacokinetics
+COIS- There is no conflict of interest.
+EDAT- 2021/06/03 06:00
+MHDA- 2021/09/22 06:00
+CRDT- 2021/06/02 01:27
+PHST- 2021/04/16 00:00 [received]
+PHST- 2021/05/13 00:00 [revised]
+PHST- 2021/05/17 00:00 [accepted]
+PHST- 2021/06/02 01:27 [entrez]
+PHST- 2021/06/03 06:00 [pubmed]
+PHST- 2021/09/22 06:00 [medline]
+AID - biom11050754 [pii]
+AID - biomolecules-11-00754 [pii]
+AID - 10.3390/biom11050754 [doi]
+PST - epublish
+SO  - Biomolecules. 2021 May 18;11(5):754. doi: 10.3390/biom11050754.
+
+PMID- 29390204
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181001
+LR  - 20181001
+IS  - 1439-0221 (Electronic)
+IS  - 0032-0943 (Linking)
+VI  - 84
+IP  - 9-10
+DP  - 2018 Jul
+TI  - Insights in Fungal Bioprospecting in Mexico.
+PG  - 594-605
+LID - 10.1055/s-0044-101551 [doi]
+AB  - Fungi have consistently been one of the richest sources of natural products, with 
+      unprecedented chemical scaffolds and potent biological activities. During the last 
+      20 years, pharmacognosy researchers in Mexico, in collaboration with mycologists, 
+      have discovered many novel bioactive fungi natural products and new fungal species. 
+      To date, more than 100 bioactive secondary metabolites from 20 fungi from different 
+      ecosystems throughout Mexico have been documented in peer-reviewed literature 
+      according to Scopus and SciFinder databases. These include compounds from different 
+      biosynthetic origins and structural cores with the potential for the development of 
+      anticancer, antidiabetic, and/or pesticide agents.
+CI  - Georg Thieme Verlag KG Stuttgart · New York.
+FAU - Mata, Rachel
+AU  - Mata R
+AD  - Facultad de Química, Universidad Nacional Autónoma de México, Ciudad de México, 
+      México.
+FAU - Figueroa, Mario
+AU  - Figueroa M
+AD  - Facultad de Química, Universidad Nacional Autónoma de México, Ciudad de México, 
+      México.
+FAU - Rivero-Cruz, Isabel
+AU  - Rivero-Cruz I
+AD  - Facultad de Química, Universidad Nacional Autónoma de México, Ciudad de México, 
+      México.
+FAU - Macías-Rubalcava, Martha L
+AU  - Macías-Rubalcava ML
+AD  - Instituto de Química, Departamento de Productos Naturales, Universidad Nacional 
+      Autónoma de México, Ciudad de México, México.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20180201
+PL  - Germany
+TA  - Planta Med
+JT  - Planta medica
+JID - 0066751
+RN  - 0 (Agrochemicals)
+RN  - 0 (Antineoplastic Agents)
+RN  - 0 (Biological Products)
+RN  - 0 (Hypoglycemic Agents)
+SB  - IM
+MH  - Agrochemicals/*chemistry/isolation & purification
+MH  - Antineoplastic Agents/*chemistry/isolation & purification
+MH  - Biological Products/*chemistry/isolation & purification
+MH  - *Bioprospecting
+MH  - Endophytes/chemistry
+MH  - Fungi/*chemistry/isolation & purification
+MH  - Hypoglycemic Agents/*chemistry/isolation & purification
+COIS- The authors declare no conflict of interest.
+EDAT- 2018/02/02 06:00
+MHDA- 2018/10/03 06:00
+CRDT- 2018/02/02 06:00
+PHST- 2018/02/02 06:00 [pubmed]
+PHST- 2018/10/03 06:00 [medline]
+PHST- 2018/02/02 06:00 [entrez]
+AID - 10.1055/s-0044-101551 [doi]
+PST - ppublish
+SO  - Planta Med. 2018 Jul;84(9-10):594-605. doi: 10.1055/s-0044-101551. Epub 2018 Feb 1.
+
+PMID- 29452376
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181022
+LR  - 20181022
+IS  - 1471-9053 (Electronic)
+IS  - 0032-0781 (Linking)
+VI  - 59
+IP  - 7
+DP  - 2018 Jul 1
+TI  - The Vacuolar Transportome of Plant Specialized Metabolites.
+PG  - 1326-1336
+LID - 10.1093/pcp/pcy039 [doi]
+AB  - The plant vacuole is a cellular compartment that is essential to plant development 
+      and growth. Often plant vacuoles accumulate specialized metabolites, also called 
+      secondary metabolites, which constitute functionally and chemically diverse 
+      compounds that exert in planta many essential functions and improve the plant's 
+      fitness. These metabolites provide, for example, chemical defense against 
+      herbivorous and pathogens or chemical attractants (color and fragrance) to attract 
+      pollinators. The chemical composition of the vacuole is dynamic, and is altered 
+      during development and as a response to environmental changes. To some extent these 
+      alterations rely on vacuolar transporters, which import and export compounds into 
+      and out of the vacuole, respectively. During the past decade, significant progress 
+      was made in the identification and functional characterization of the transporters 
+      implicated in many aspects of plant specialized metabolism. Still, deciphering the 
+      molecular players underlying such processes remains a challenge for the future. In 
+      this review, we present a comprehensive summary of the most recent achievements in 
+      this field.
+FAU - de Brito Francisco, Rita
+AU  - de Brito Francisco R
+AD  - Department of Plant and Microbial Biology, University of Zürich, Zürich, 
+      Switzerland.
+FAU - Martinoia, Enrico
+AU  - Martinoia E
+AD  - Department of Plant and Microbial Biology, University of Zürich, Zürich, 
+      Switzerland.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - Japan
+TA  - Plant Cell Physiol
+JT  - Plant & cell physiology
+JID - 9430925
+RN  - 0 (Alkaloids)
+RN  - 0 (Flavonoids)
+RN  - 0 (Glucosinolates)
+RN  - 0 (Glycosides)
+RN  - 0 (Plant Proteins)
+RN  - 0 (Saponins)
+RN  - 0 (cyanogenic glycosides)
+SB  - IM
+MH  - Alkaloids/metabolism
+MH  - Biological Transport
+MH  - Flavonoids/metabolism
+MH  - Glucosinolates/metabolism
+MH  - Glycosides/metabolism
+MH  - Phylogeny
+MH  - Plant Cells/metabolism
+MH  - Plant Proteins/*metabolism
+MH  - Plants/genetics/*metabolism
+MH  - Saponins/metabolism
+MH  - Sorghum/metabolism
+MH  - Vacuoles/*metabolism
+EDAT- 2018/02/17 06:00
+MHDA- 2018/10/23 06:00
+CRDT- 2018/02/17 06:00
+PHST- 2017/11/22 00:00 [received]
+PHST- 2018/02/05 00:00 [accepted]
+PHST- 2018/02/17 06:00 [pubmed]
+PHST- 2018/10/23 06:00 [medline]
+PHST- 2018/02/17 06:00 [entrez]
+AID - 4857395 [pii]
+AID - 10.1093/pcp/pcy039 [doi]
+PST - ppublish
+SO  - Plant Cell Physiol. 2018 Jul 1;59(7):1326-1336. doi: 10.1093/pcp/pcy039.
+
+PMID- 34560791
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211026
+LR  - 20211026
+IS  - 1439-0221 (Electronic)
+IS  - 0032-0943 (Linking)
+VI  - 87
+IP  - 12-13
+DP  - 2021 Oct
+TI  - Coffee Leaves: An Upcoming Novel Food?
+PG  - 949-963
+LID - 10.1055/a-1533-0021 [doi]
+AB  - Unlike those of coffee beans, the healthy properties of coffee leaves have been 
+      overlooked for a long time, even if they are consumed as a beverage by local 
+      communities of several African countries. Due to the presence of xanthines, 
+      diterpenes, xanthones, and several other polyphenol derivatives as main secondary 
+      metabolites, coffee leaves might be useful to prevent many daily disorders. At the 
+      same time, as for all bioactive molecules, careless use of coffee leaf infusions may 
+      be unsafe due to their adverse effects, such as the excessive stimulant effects on 
+      the central nervous system or their interactions with other concomitantly 
+      administered drugs. Moreover, the presence of some toxic diterpene derivatives 
+      requires careful analytical controls on manufactured products made with coffee 
+      leaves. Accordingly, knowledge about the properties of coffee leaves needs to be 
+      increased to know if they might be considered a good source for producing new 
+      supplements. The purpose of the present review is to highlight the biosynthesis, 
+      metabolism, and distribution of the 4 main classes of secondary metabolites present 
+      in coffee leaves, their main pharmacological and toxicological aspects, and their 
+      main roles in planta. Differences in coffee leaf chemical composition depending on 
+      the coffee species will also be carefully considered.
+CI  - Thieme. All rights reserved.
+FAU - Montis, Andrea
+AU  - Montis A
+AD  - RD3 Department-Unit of Pharmacognosy, Bioanalysis and Drug Discovery, Faculty of 
+      Pharmacy, Université libre de Bruxelles, Brussels, Belgium.
+AD  - APFP Analytical platform of the faculty of pharmacy, Faculty of Pharmacy, Université 
+      libre de Bruxelles, Brussels, Belgium.
+FAU - Souard, Florence
+AU  - Souard F
+AD  - Département de Pharmacochimie Moléculaire, UMR 5063 CNRS, Université Grenoble Alpes, 
+      Saint-Martin d'Hères, France.
+AD  - DPP Department - Unit of Pharmacology, Pharmacotherapy and Pharmaceutical care, 
+      Faculty of Pharmacy, Université libre de Bruxelles, Brussels, Belgium.
+FAU - Delporte, Cédric
+AU  - Delporte C
+AD  - RD3 Department-Unit of Pharmacognosy, Bioanalysis and Drug Discovery, Faculty of 
+      Pharmacy, Université libre de Bruxelles, Brussels, Belgium.
+AD  - APFP Analytical platform of the faculty of pharmacy, Faculty of Pharmacy, Université 
+      libre de Bruxelles, Brussels, Belgium.
+FAU - Stoffelen, Piet
+AU  - Stoffelen P
+AD  - Meise Botanic Garden, Domein van Bouchout, Meise, Belgium.
+FAU - Stévigny, Caroline
+AU  - Stévigny C
+AD  - RD3 Department-Unit of Pharmacognosy, Bioanalysis and Drug Discovery, Faculty of 
+      Pharmacy, Université libre de Bruxelles, Brussels, Belgium.
+FAU - Van Antwerpen, Pierre
+AU  - Van Antwerpen P
+AD  - RD3 Department-Unit of Pharmacognosy, Bioanalysis and Drug Discovery, Faculty of 
+      Pharmacy, Université libre de Bruxelles, Brussels, Belgium.
+AD  - APFP Analytical platform of the faculty of pharmacy, Faculty of Pharmacy, Université 
+      libre de Bruxelles, Brussels, Belgium.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20210924
+PL  - Germany
+TA  - Planta Med
+JT  - Planta medica
+JID - 0066751
+RN  - 0 (Coffee)
+RN  - 0 (Diterpenes)
+RN  - 0 (Polyphenols)
+SB  - IM
+MH  - *Coffee
+MH  - Dietary Supplements
+MH  - *Diterpenes
+MH  - Plant Leaves
+MH  - Polyphenols
+COIS- The authors declare that they have no conflict of interest.
+EDAT- 2021/09/25 06:00
+MHDA- 2021/10/27 06:00
+CRDT- 2021/09/24 20:35
+PHST- 2021/09/25 06:00 [pubmed]
+PHST- 2021/10/27 06:00 [medline]
+PHST- 2021/09/24 20:35 [entrez]
+AID - 10.1055/a-1533-0021 [doi]
+PST - ppublish
+SO  - Planta Med. 2021 Oct;87(12-13):949-963. doi: 10.1055/a-1533-0021. Epub 2021 Sep 24.
